@@ -1,6 +1,6 @@
 # VBA-challenge
 This is the repository for Monash University Data Analytics Bootcamp Module 2 Challenge
---------------------------------------------------------------------------------------------------------------------------------
+
 Instructions for this challenge:
 --------------------------------------------------------------------------------------------------------------------------------
 Create a script that loops through all the stocks for one year and outputs the following information:
@@ -12,7 +12,7 @@ Yearly change from the opening price at the beginning of a given year to the clo
 The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
 The total stock volume of the stock.
----------------------------------------------------------------------------------------------------------------------------------
+
 This repository contains:
 ---------------------------------------------------------------------------------------------------------------------------------
 README file
@@ -20,7 +20,7 @@ README file
 Screenshots of the results 
 
 VBA script files (VBS and TXT)
---------------------------------------------------------------------------------------------------------------------------------
+
 Resources used:
 --------------------------------------------------------------------------------------------------------------------------------
 BCS Xpert Learning assistant 
